@@ -1,6 +1,6 @@
-# SyllaBug
+# Syllabug
 
-SyllaBug is a web application that helps students extract and manage assignments and due dates from course syllabi.
+Syllabug is a web application that helps students extract and manage assignments and due dates from course syllabi.
 
 ## Features
 
