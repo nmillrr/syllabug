@@ -417,7 +417,7 @@ const Home = ({ isDarkTheme = false }) => {
       {/* Footer with info */}
       <footer className="mt-12 text-center text-sm text-gray-500">
         <p>Syllabug extracts assignments from your syllabus using AI.</p>
-        <p className="mt-1">Made with 🩵 by nmillrr.</p>
+        <p className="mt-1">Made with 🩵 by </p><a href="https://nmillrr.framer.ai">nmillrr</a><p>.</p>
       </footer>
     </div>
   );
